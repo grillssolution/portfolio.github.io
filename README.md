@@ -1,7 +1,3 @@
-Here’s the updated `README.md` without the *Getting Started* and *Project Structure* sections:
-
----
-
 # Grills - Portfolio Website
 
 Welcome to the official portfolio website for **Grills**, a tech company specializing in custom project development, brand rebranding, and gamification services. This website showcases our services, mission, and innovative solutions designed to empower businesses through technology.
@@ -44,8 +40,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📞 Contact
 
 For any inquiries, feel free to reach out:
-- **Email**: contact@grills.com
-- **LinkedIn**: [Grills on LinkedIn](https://www.linkedin.com/company/grills)
+- **Email**: grillssolution@gmail.com
+- **LinkedIn**: [Grills on LinkedIn](https://www.linkedin.com/company/grills-solution/)
 
 ---
 
